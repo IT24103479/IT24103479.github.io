@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-Education
-======
 * B.Sc. (Hons) in Computer Systems Engineering, Sri Lanka Institute of Information Technology (SLIIT), Undergraduate, 2026 (expected)
 * Advanced Level, Newstead Girls' School,Physical Sciences, 2023
    
