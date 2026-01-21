@@ -1,11 +1,9 @@
 ---
-title: "About Me"
 permalink: /about/
-tags:
-  - introduction
-  - blog
-  - programming
-  - tech
+title: "About Me"
+author_profile: true
+redirect_from:
+  - /about.html
 ---
 
 # Welcome to My Blog!
@@ -25,4 +23,3 @@ This blog is where I share **tutorials, project breakdowns, study notes, and tec
 Whether you’re a student, beginner programmer, or just curious about technology, this blog is designed to help you **learn, experiment, and grow** in your tech journey.
 
 Feel free to explore the posts, try the projects, and **subscribe** for updates. Let’s explore technology together!
-
