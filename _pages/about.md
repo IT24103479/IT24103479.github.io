@@ -1,20 +1,28 @@
 ---
-title: "Welcome to My Tech Blog"
+title: "About Me"
 permalink: /about/
 tags:
   - introduction
   - blog
   - programming
+  - tech
 ---
 
 # Welcome to My Blog!
 
-Hi there! I’m **Akasha**, a tech enthusiast and student exploring the world of programming, operating systems, and computer science.
+Hi! I’m **Akasha**, a student and tech enthusiast passionate about **programming, operating systems, and computer science**.  
 
-Here, I share insights on **programming projects, computer science concepts, tutorials, and study tips**. Whether it’s building a smart AI in C or understanding how operating systems work, you’ll find practical explanations and real-world examples.
+This blog is where I share **tutorials, project breakdowns, study notes, and tech insights** to help students and beginners understand computing concepts in a simple, practical way.
 
-This blog is for **students, aspiring programmers, and anyone curious about technology** who wants to learn in a simple, hands-on way.
+## What You Can Expect
 
-Expect **step-by-step tutorials, detailed project breakdowns, and study notes** designed to make learning computer science easier and more enjoyable.
+- **Programming Projects:** Step-by-step guides for building small programs, games, and AI experiments.  
+- **Computer Science Concepts:** Easy-to-understand explanations of OS, networking, and other key topics.  
+- **Study Tips:** Notes and techniques for learning faster and smarter.  
 
-Feel free to **browse the posts**, try out the projects, and subscribe for updates. Let’s explore technology together!
+## Who This Blog Is For
+
+Whether you’re a student, beginner programmer, or just curious about technology, this blog is designed to help you **learn, experiment, and grow** in your tech journey.
+
+Feel free to explore the posts, try the projects, and **subscribe** for updates. Let’s explore technology together!
+
